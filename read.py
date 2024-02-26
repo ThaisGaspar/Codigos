@@ -3,7 +3,7 @@ import pandas as pd
 import gspread
 from google.auth import default
 import re
-
+#cria classe
 class Read:
     def __init__(self):
         # Autentica o usuário
